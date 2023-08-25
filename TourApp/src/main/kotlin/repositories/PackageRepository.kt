@@ -141,11 +141,11 @@ object PackageRepository {
     }
 
     fun get() : List<TourPackage> {
-        return emptyList() //TODO Implementar solucion para obtener todos los juegos
+        return emptyList() //TODO Implementar solucion para obtener todos los paquetes turisticos
     }
 
     fun getById(id: Long) : TourPackage {
-        return packages[0] //TODO Implementar solucion para obtener el juego solicitado
+        return packages[0] //TODO Implementar solucion para obtener el paquete turistico solicitado
     }
     
 }
