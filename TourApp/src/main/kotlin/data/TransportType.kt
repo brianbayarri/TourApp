@@ -2,7 +2,7 @@ package data
 
 enum class TransportType {
     BUS,
-    PLANE,
+    AIRPLANE,
     TRAIN,
     FERRY
 }

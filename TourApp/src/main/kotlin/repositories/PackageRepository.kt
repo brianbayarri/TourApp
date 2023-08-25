@@ -12,7 +12,7 @@ object PackageRepository {
             TourPackage(
                 1L,
                 "Bariloche Premium",
-                TransportType.PLANE,
+                TransportType.AIRPLANE,
                 10,
                 4.7,
                 150000.00,
@@ -90,7 +90,7 @@ object PackageRepository {
             TourPackage(
                 7L,
                 "Fin del mundo",
-                TransportType.PLANE,
+                TransportType.AIRPLANE,
                 5,
                 4.8,
                 415000.00,
@@ -103,7 +103,7 @@ object PackageRepository {
             TourPackage(
                 8L,
                 "Nos vamos para el norte!",
-                TransportType.PLANE,
+                TransportType.AIRPLANE,
                 5,
                 3.9,
                 120000.00,
@@ -129,7 +129,7 @@ object PackageRepository {
             TourPackage(
                 10L,
                 "Full Cataratas",
-                TransportType.PLANE,
+                TransportType.AIRPLANE,
                 6,
                 4.9,
                 85000.00,

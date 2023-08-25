@@ -1,6 +1,6 @@
 package data
 
-data class Ticket(
+data class Purchase(
     val id: Long,
     val userId: Long,
     val packageId: Long,
